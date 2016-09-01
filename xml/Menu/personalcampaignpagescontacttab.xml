@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/personalcampaignpagescontacttab/assigned</path>
+    <page_callback>CRM_Personalcampaignpagescontacttab_Page_Assigned</page_callback>
+    <title>Assigned</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>

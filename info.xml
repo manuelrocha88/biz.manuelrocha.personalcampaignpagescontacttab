@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<extension key="biz.manuelrocha.personalcampaignpagescontacttab" type="module">
+  <file>personalcampaignpagescontacttab</file>
+  <name>Personal Campaign Pages - Contact tab</name>
+  <description>Shows a new CiviCRM contact tab which displays a list of the personal campaign pages that a contact has created.</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>Manuel Rocha</author>
+    <email>manuelrocha@manuelrocha.biz</email>
+  </maintainer>
+  <urls>
+    <url desc="Main Extension Page">https://github.com/manuelrocha88/biz.manuelrocha.personalcampaignpagescontacttab</url>
+    <url desc="Documentation">https://github.com/manuelrocha88/biz.manuelrocha.personalcampaignpagescontacttab</url>
+    <url desc="Support">http://www.manuelrocha.biz</url>
+    <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
+  </urls>
+  <releaseDate>2016-09-01</releaseDate>
+  <version>1.0</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.2</ver>
+  </compatibility>
+  <comments>This is a new, undeveloped module</comments>
+  <civix>
+    <namespace>CRM/Personalcampaignpagescontacttab</namespace>
+  </civix>
+</extension>
